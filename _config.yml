@@ -1,17 +1,16 @@
 # Configurations
-title:            Nesios
-longtitle:        Nesios
+title:            Megalos Archive
+longtitle:        Megalos Archive
 author:           Nesios
-email:            sighingnow@gmail.com
+email:            contact@megaloscorp.onmicrosoft.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Archive de la team Mégalos.
 
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://n3sios.github.io/Nesios.github.io'
 baseurl:          '/Nesios.github.io'
-rss:              RSS
 
 # markdown render engine.
 markdown:         kramdown
@@ -20,7 +19,7 @@ kramdown:
   input:                  GFM
   math_engine:            mathjax
   smart_quotes:           lsquo,rsquo,ldquo,rdquo
-  toc_levels:             1..6
+  toc_levels:             1..9
   syntax_highlighter:     rouge
   syntax_highlighter_opts:
     guess_lang:           true
